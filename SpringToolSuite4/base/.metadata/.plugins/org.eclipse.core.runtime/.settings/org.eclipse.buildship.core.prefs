@@ -1,0 +1,6 @@
+auto.sync=false
+eclipse.preferences.version=1
+gradle.build.scans=false
+gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(D\:\\Develop\\Java\\gradle-5.1.1))
+gradle.offline.mode=false
+gradle.user.home=D\:\\Develop\\Java\\gradle-user-home

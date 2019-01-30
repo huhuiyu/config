@@ -1,0 +1,20 @@
+{
+  "css.fileExtensions": ["css"],
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "vscode-great-icons",
+  "search.followSymlinks": false,
+  "editor.tabSize": 2,
+  "html.format.wrapLineLength": 400,
+  "editor.detectIndentation": false,
+  "prettier.printWidth": 400,
+  "prettier.singleQuote": true,
+  "prettier.disableLanguages": ["vue", "html"],
+  "beautify.language": {
+    "js": {
+      "type": ["json"],
+      "filename": [".jshintrc", ".jsbeautifyrc"]
+    },
+    "css": ["scss"],
+    "html": ["htm", "html"]
+  }
+}
